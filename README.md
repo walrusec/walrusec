@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @walrusec
+- 🌱 I’m currently learning nix and offensive security
